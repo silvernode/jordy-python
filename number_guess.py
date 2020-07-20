@@ -3,7 +3,7 @@
 # Guess the randomly generated number
 #
 
-from random import *
+from random import randint
 
 
 answer = randint(1, 100)
